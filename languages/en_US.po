@@ -1,0 +1,532 @@
+# Copyright (C) 2024 François Yerg
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPRunway for Divi 1.1.0\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/wprunway-for-divi\n"
+"POT-Creation-Date: 2024-09-06 14:16:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#. Plugin Name of the plugin/theme
+msgid "WPRunway for Divi"
+msgstr ""
+
+#: admin/admin.php:54
+msgid "WPRunway"
+msgstr ""
+
+#: admin/admin.php:96
+msgid "Manage modules"
+msgstr ""
+
+#: admin/admin.php:116
+msgid "Disable the modules you do not use to enance your website performences."
+msgstr ""
+
+#: admin/functions.php:14 includes/modules/Alert/Alert.php:17
+msgid "Alert"
+msgstr ""
+
+#: admin/functions.php:15
+msgid "Display a customisable alert message on your website."
+msgstr ""
+
+#: admin/functions.php:32 includes/modules/Note/Note.php:19
+msgid "Note"
+msgstr ""
+
+#: admin/functions.php:33
+msgid "Display a note on your website."
+msgstr ""
+
+#: admin/functions.php:40 includes/modules/Profile/Profile.php:12
+#: includes/modules/Profile/Profile.php:29
+msgid "Profile"
+msgstr ""
+
+#: admin/functions.php:41
+msgid "Show profiles on your website from current user, post author or custom user"
+msgstr ""
+
+#: admin/functions.php:48 includes/modules/ReadingTime/ReadingTime.php:17
+msgid "Reading time"
+msgstr ""
+
+#: admin/functions.php:49
+msgid ""
+"Display an estimation of the time needed to read a post or page based on "
+"the number of words."
+msgstr ""
+
+#: admin/functions.php:56 includes/modules/Tag/Tag.php:17
+msgid "Tag"
+msgstr ""
+
+#: admin/functions.php:57
+msgid "Display a tag in the begining, middle or end of a sentence."
+msgstr ""
+
+#: includes/modules/Alert/Alert.php:18
+msgid "Alerts"
+msgstr ""
+
+#: includes/modules/Alert/Alert.php:29
+msgid "Alert message"
+msgstr ""
+
+#: includes/modules/Alert/Alert.php:30
+msgid "Your alert box message."
+msgstr ""
+
+#: includes/modules/Alert/Alert.php:31
+msgid "Type your message here."
+msgstr ""
+
+#: includes/modules/Flipbox/Flipbox.php:12
+msgid "Flipbox"
+msgstr ""
+
+#: includes/modules/Flipbox/Flipbox.php:17
+#: includes/modules/Flipbox/Flipbox.php:47
+msgid "Front Content"
+msgstr ""
+
+#: includes/modules/Flipbox/Flipbox.php:18
+#: includes/modules/Flipbox/Flipbox.php:64
+msgid "Back Content"
+msgstr ""
+
+#: includes/modules/Flipbox/Flipbox.php:23
+msgid "Flipbox Design"
+msgstr ""
+
+#: includes/modules/Flipbox/Flipbox.php:31
+msgid "Button"
+msgstr ""
+
+#: includes/modules/Flipbox/Flipbox.php:42
+msgid "Front Title"
+msgstr ""
+
+#: includes/modules/Flipbox/Flipbox.php:52
+msgid "Front Image"
+msgstr ""
+
+#: includes/modules/Flipbox/Flipbox.php:59
+msgid "Back Title"
+msgstr ""
+
+#: includes/modules/Flipbox/Flipbox.php:69
+msgid "Back Image"
+msgstr ""
+
+#: includes/modules/Note/Note.php:20
+msgid "Notes"
+msgstr ""
+
+#: includes/modules/Note/Note.php:28 includes/modules/Profile/Profile.php:20
+msgid "Content"
+msgstr ""
+
+#: includes/modules/Note/Note.php:29
+msgid "The content of your note."
+msgstr ""
+
+#: includes/modules/Note/Note.php:30
+msgid "The content of your note goes here."
+msgstr ""
+
+#: includes/modules/Note/Note.php:34
+msgid "Left border color"
+msgstr ""
+
+#: includes/modules/Note/Note.php:40
+msgid "Left border gap"
+msgstr ""
+
+#: includes/modules/Note/Note.php:50 includes/modules/Tag/Tag.php:73
+#: includes/modules/Tag/Tag.php:88
+msgid "Here you can define a gap between the text and the badge"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:13
+msgid "Profiles"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:32
+msgid "Current post author"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:33
+msgid "Current user"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:34
+#: includes/modules/Profile/Profile.php:43
+#: includes/modules/Profile/Profile.php:429
+msgid "Select a user"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:35
+#: includes/modules/Profile/Profile.php:54
+msgid "User ID"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:36
+msgid "Manual"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:38
+#: includes/modules/Profile/Profile.php:46
+msgid ""
+"Choose what profil you want to show. if current post is selected, nothing "
+"will be displayed on archives pages."
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:56
+msgid "Enter a valid user ID."
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:64
+msgid "Avatar"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:66
+msgid "Select the profile avatar."
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:74
+msgid "Displayed name"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:76
+msgid "Enter the name to display."
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:84
+msgid "Displayed username"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:86
+msgid "Enter the username to display."
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:94
+#: includes/modules/Profile/Profile.php:294
+msgid "Biography"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:96
+msgid "Enter the biography to display."
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:104
+msgid "Email address"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:106
+msgid "Enter the email address for the button."
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:114
+msgid "Website"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:116
+msgid "Enter the website URL for the button."
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:129
+msgid "John Doe"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:133
+msgid "johndoe"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:137
+msgid ""
+"John Nommensen Duchac (born February 25, 1953), known professionally as "
+"John Doe, is an American singer, songwriter, actor, poet, guitarist and "
+"bass player."
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:141
+msgid "exemple@exemple.com"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:145
+msgid "www.exemple.com"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:148
+msgid "Show avatar"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:151
+#: includes/modules/Profile/Profile.php:163
+#: includes/modules/Profile/Profile.php:175
+#: includes/modules/Profile/Profile.php:187
+#: includes/modules/Profile/Profile.php:200
+#: includes/modules/Profile/Profile.php:213
+msgid "Display"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:152
+#: includes/modules/Profile/Profile.php:164
+#: includes/modules/Profile/Profile.php:176
+#: includes/modules/Profile/Profile.php:188
+#: includes/modules/Profile/Profile.php:201
+#: includes/modules/Profile/Profile.php:214
+msgid "Hide"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:155
+msgid "Choose if you want to display or not the user avatar."
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:160
+msgid "Show real name"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:167
+msgid ""
+"Choose if you want to display or not the name and firstname. It needs to be "
+"filled in the user profile to appear."
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:172
+msgid "Show username"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:179
+msgid "Choose if you want to display or not the user username."
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:184
+msgid "Show biography"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:192
+msgid "Choose if you want to display or not the user biography."
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:197
+msgid "Show email button"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:205
+msgid ""
+"Choose if you want to display or not the contact button with the email "
+"address."
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:210
+msgid "Show website"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:218
+msgid "Choose if you want to display or not the user website link."
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:223
+msgid "Template"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:226
+msgid "Card"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:227
+msgid "Full width"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:231
+msgid "Choose a template."
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:236
+#: includes/modules/Profile/Profile.php:252
+msgid "Avatar size"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:244
+#: includes/modules/Profile/Profile.php:260
+msgid "Use the slider to adjust the avatar size."
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:274
+msgid "Name"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:284
+msgid "Username"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:301
+msgid "Email"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:308
+msgid "website"
+msgstr ""
+
+#: includes/modules/Profile/Profile.php:391
+#: includes/modules/Profile/Profile.php:414
+msgid "User avatar"
+msgstr ""
+
+#: includes/modules/ReadingTime/ReadingTime.php:24
+msgid "Reading speed"
+msgstr ""
+
+#: includes/modules/ReadingTime/ReadingTime.php:30
+#: includes/modules/ReadingTime/ReadingTime.php:91
+msgid " Wpm"
+msgstr ""
+
+#: includes/modules/ReadingTime/ReadingTime.php:37
+msgid ""
+"Reading speed in words by minute. The common value is 200 words by minutes "
+"but it can be adjusted here to fit your audience."
+msgstr ""
+
+#: includes/modules/ReadingTime/ReadingTime.php:40
+msgid "Time format"
+msgstr ""
+
+#: includes/modules/ReadingTime/ReadingTime.php:47
+msgid "Here you can set the time format."
+msgstr ""
+
+#: includes/modules/ReadingTime/ReadingTime.php:50
+#: includes/modules/Tag/Tag.php:26 includes/modules/Tag/Tag.php:97
+msgid "Left text"
+msgstr ""
+
+#: includes/modules/ReadingTime/ReadingTime.php:52
+msgid "Reading time: "
+msgstr ""
+
+#: includes/modules/ReadingTime/ReadingTime.php:57
+msgid "This text will be displayed on the left of the time."
+msgstr ""
+
+#: includes/modules/ReadingTime/ReadingTime.php:60
+#: includes/modules/Tag/Tag.php:44 includes/modules/Tag/Tag.php:112
+msgid "Right text"
+msgstr ""
+
+#: includes/modules/ReadingTime/ReadingTime.php:67
+msgid "This text will be displayed on the right of the time."
+msgstr ""
+
+#: includes/modules/ReadingTime/ReadingTime.php:102
+msgid " minute"
+msgstr ""
+
+#: includes/modules/ReadingTime/ReadingTime.php:105
+msgid " minutes"
+msgstr ""
+
+#: includes/modules/ReadingTime/ReadingTime.php:109
+msgid " second"
+msgstr ""
+
+#: includes/modules/ReadingTime/ReadingTime.php:112
+msgid " seconds"
+msgstr ""
+
+#: includes/modules/Tag/Tag.php:18
+msgid "Tags"
+msgstr ""
+
+#: includes/modules/Tag/Tag.php:35 includes/modules/Tag/Tag.php:103
+msgid "Tag text"
+msgstr ""
+
+#: includes/modules/Tag/Tag.php:53
+msgid "Tag Color"
+msgstr ""
+
+#: includes/modules/Tag/Tag.php:61
+msgid "Tag left gap"
+msgstr ""
+
+#: includes/modules/Tag/Tag.php:76
+msgid "Tag right gap"
+msgstr ""
+
+#: templates/admin-main.php:17 templates/admin-main.php:38
+msgid "Welcome"
+msgstr ""
+
+#: templates/admin-main.php:23
+msgid "Modules"
+msgstr ""
+
+#: templates/admin-main.php:29 templates/admin-main.php:70
+msgid "About"
+msgstr ""
+
+#: templates/admin-main.php:62
+msgid "More to come..."
+msgstr ""
+
+#: templates/admin-main.php:74
+msgid "WPRunway for Divi version:"
+msgstr ""
+
+#: templates/admin-main.php:78
+msgid "Plugin made by François Yerg:"
+msgstr ""
+
+#: templates/admin-main.php:82
+msgid "For help and documentation:"
+msgstr ""
+
+#: templates/admin-main.php:86
+msgid "If you have any questions or to report a bug:"
+msgstr ""
+
+#: templates/admin-main.php:94
+msgid "Actions"
+msgstr ""
+
+#: templates/admin-main.php:97
+msgid "Save changes"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.wprunway.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Let your wordpress website take off !"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "François Yerg"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.francoisyerg.net"
+msgstr ""
